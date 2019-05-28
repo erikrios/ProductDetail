@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ProductDetail</string>
+    <string name="product_name">NIKE BASKET BALL</string>
+    <string name="product_price">$ 70.00</string>
+    <string name="shipping_price">Free Shipping</string>
+    <string name="rating">4.5 of 5 start</string>
+    <string name="rating_total">500 ratings</string>
+    <string name="product_description">Lorem ipsum dolor sit amet, pro in luptatum instructior, ex affert impetus fabulas sea. Est cu aeterno corrumpit, sit at mucius graecis, at putant iudicabit sea. Eam et integre alienum, pertinacia incorrupte ex quo.</string>
+    <string name="add_to_cart">Add To Cart</string>
+    <string name="product_details">Product Details</string>
+</resources>
